@@ -3,10 +3,13 @@
 ![tapickell's Stats](https://github-readme-stats.vercel.app/api?username=tapickell&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
-- 🔭 I’m currently working using Elixir, Phoenix, LiveView for Web development projects.
+- 🧑‍💻 I’m currently working using Elixir, Phoenix, LiveView for Web development projects.
+- 🌱 I’m currently learning about reverse engineering C, C++, Rust, GoLang programs for x86/x64.
+- 💾 I like building embedded applications using Elixir and Nerves.
+- 📱 I have experience developing software for mobile, emebedded and web platforms.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,rust,elixir,erlang,python,c,golang,nerves,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=elixir,rust,golang,c,python,nodejs,html,css)](https://skillicons.dev)
 
 <!--
 **tapickell/tapickell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
