@@ -1,6 +1,8 @@
 ### Hi there, I'm Todd Pickell 👋
 
-![tapickell's Stats](https://github-readme-stats.vercel.app/api?username=tapickell&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![tapickell's Stats](https://github-readme-stats.vercel.app/api?username=tapickell&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&show=prs_merged,prs_merged_percentage)
+![tapickell's Streak](https://github-readme-streak-stats.herokuapp.com/?user=tapickell&theme=vue-dark&hide_border=true)
+![tapickell's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tapickell&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ## 🚀 About Me
 - 🧑‍💻 I’m currently working using Elixir, Phoenix, LiveView for Web development projects.
