@@ -7,11 +7,13 @@
 ## 🚀 About Me
 - 🧑‍💻 I’m currently working using Elixir, Phoenix, LiveView for Web development projects.
 - 🌱 I’m currently learning about reverse engineering C, C++, Rust, GoLang programs for x86/x64.
+- 📖 I’m currently reading "Structure and Interpretation of Computer Programs" - Sussman, Abelson and working through it in both ChezScheme and Clojure.
 - 💾 I like building embedded applications using Elixir and Nerves.
+- 🤔 I love learning about different approaches to solving problems and functional programming.
 - 📱 I have experience developing software for mobile, emebedded and web platforms.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=elixir,rust,golang,c,python,nodejs,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=elixir,rust,golang,clojure,c,python,nodejs,html,css)](https://skillicons.dev)
 
 <!--
 **tapickell/tapickell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
