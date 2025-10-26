@@ -5,12 +5,12 @@
 ![tapickell's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tapickell&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ## 🚀 About Me
-- 🧑‍💻 I’m currently working using Elixir, Phoenix, LiveView for Web development projects.
-- 🌱 I’m currently learning about reverse engineering C, C++, Rust, GoLang programs for x86/x64.
-- 📖 I’m currently reading "Structure and Interpretation of Computer Programs" - Sussman, Abelson and working through it in both ChezScheme and Clojure.
-- 💾 I like building embedded applications using Elixir and Nerves.
-- 🤔 I love learning about different approaches to solving problems and functional programming.
-- 📱 I have experience developing software for mobile, emebedded and web platforms.
+- 🧑‍💻 I’m currently working using Elixir, Phoenix, GraphQL and LiveView for Web development projects.
+- 🌱 I’m currently working using Python to interact with LLMs for completion and STT & TTS.
+- 📖 I’m currently reading "Structure and Interpretation of Computer Programs" - Sussman, Abelson and working through it in Clojure.
+- 💾 I like building embedded applications using Elixir and Nerves in my spare time.
+- 🤔 I love learning about different approaches to solving problems and functional programming languages.
+- 📱 I have experience developing software for mobile, emebedded, web, and AI platforms.
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=elixir,rust,golang,clojure,c,python,nodejs,html,css)](https://skillicons.dev)
